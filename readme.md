@@ -79,4 +79,4 @@ This project is a full-stack application built using the MERN stack, which inclu
 - **Description:**  Displays a bar chart showing the price range and the number of items in each range for the selected month.
 
 ### Example Screenshot
-![Screen Shot](frontend/public/screencapture.png)
+
