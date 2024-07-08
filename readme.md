@@ -1,4 +1,4 @@
-# MERN Stack Coding Challenge Documentation for Intern
+# MERN Stack Coding Challenge Documentation 
 
 ## Overview
 
