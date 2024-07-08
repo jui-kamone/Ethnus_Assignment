@@ -70,10 +70,6 @@ This project is a full-stack application built using the MERN stack, which inclu
 - Search Box: Filters transactions by matching text in title, description, or price.
 - Pagination: Next and Previous buttons for navigating through pages.
 
-### Screenshot
-
-- ![screencapture(products)](https://github.com/jui-kamone/Ethnus_Assignment/assets/118176425/1cc81c62-73f5-44c5-9afc-953a42a0a348)
-
 
 ### Transactions Statistics
 
