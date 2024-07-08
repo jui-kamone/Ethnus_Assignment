@@ -29,7 +29,7 @@ This project is a full-stack application built using the MERN stack, which inclu
 - perPage (integer, optional): Items per page - for pagination (default: 10).
 - search (string, optional): Text to search in title/description/price.
 
-### Statistics API
+### 3. Statistics API
 
 - **Endpoint:** `/api/v1/analytics/statistics`
 - **Method:** GET
@@ -37,7 +37,7 @@ This project is a full-stack application built using the MERN stack, which inclu
 - **Parameters:**
   - `month` (string): The month for which statistics need to be fetched.
 
-### Bar Chart API
+### 4. Bar Chart API
 
 - **Endpoint:** `/api/v1/analytics/bar-chart`
 - **Method:** GET
@@ -45,7 +45,7 @@ This project is a full-stack application built using the MERN stack, which inclu
 - **Parameters:**
   - `month` (string): The month for which bar chart data needs to be fetched.
 
-### Pie Chart API
+### 5. Pie Chart API
 
 - **Endpoint:** `/api/v1/analytics/pie-chart`
 - **Method:** GET
@@ -53,7 +53,7 @@ This project is a full-stack application built using the MERN stack, which inclu
 - **Parameters:**
   - `month` (string): The month for which pie chart data needs to be fetched.
 
-### Combined API
+### 6. Combined API
 
 - **Endpoint:** `/api/v1/analytics/combined-chart`
 - **Method:** GET
