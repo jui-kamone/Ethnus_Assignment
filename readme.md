@@ -70,6 +70,11 @@ This project is a full-stack application built using the MERN stack, which inclu
 - Search Box: Filters transactions by matching text in title, description, or price.
 - Pagination: Next and Previous buttons for navigating through pages.
 
+### Screenshot
+
+- ![screencapture(products)](https://github.com/jui-kamone/Ethnus_Assignment/assets/118176425/1cc81c62-73f5-44c5-9afc-953a42a0a348)
+
+
 ### Transactions Statistics
 
 - **Description:** Displays total amount of sale, total sold items, and total not sold items for the selected month.
@@ -78,5 +83,12 @@ This project is a full-stack application built using the MERN stack, which inclu
 
 - **Description:**  Displays a bar chart showing the price range and the number of items in each range for the selected month.
 
-### Example Screenshot
+###  Screenshot(Bar chart)
+
+![bar_chart](https://github.com/jui-kamone/Ethnus_Assignment/assets/118176425/92aa2726-1bb6-4f5f-af24-9ce5bde8cca1)
+
+
+
+
+
 
